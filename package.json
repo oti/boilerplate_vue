@@ -44,7 +44,7 @@
     "lint-staged": "^8.2.1",
     "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
-    "terser": "^4.6.3",
+    "terser": "^4.8.1",
     "terser-webpack-plugin": "^1.4.3",
     "ts-jest": "^26.0.0",
     "typescript": "^3.7.5",
